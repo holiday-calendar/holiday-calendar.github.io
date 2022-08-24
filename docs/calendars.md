@@ -15,10 +15,20 @@ calendars for GA release version **1.0.0** and beyond.
   * National holidays
 
 ### Asia
+* China (PRC) official holidays
+* Hong Kong
+  * National holidays
+  * Hong Kong Monetary Authority holidays
+* Japan
+  * National holidays
+  * [Bank of Japan holidays](https://www.boj.or.jp/en/about/outline/holi.htm/)
+* Singapore
+  * National holidays
+  * Monetary Authority of Singapore holidays
 
 ### Australia
 * Australia national holidays
-* Reserve Bank of Australia holidays
+* [Reserve Bank of Australia holidays](https://www.rba.gov.au/schedules-events/bank-holidays/)
 
 ### Europe
 * European Central Bank holidays
@@ -32,5 +42,16 @@ calendars for GA release version **1.0.0** and beyond.
   * Bank of England holidays
 
 ### North America
+* Canada
+  * National holidays
+  * [Bank of Canada holidays](https://www.bankofcanada.ca/press/upcoming-events/bank-of-canada-holiday-schedule/)
+* United States of America
+  * National holidays
+  * [Federal Reserve Bank holidays](https://www.richmondfed.org/about_us/holiday_schedule)
 
 ### South America
+* Argentina national holidays
+* Brazil national holidays
+* Chile national holidays
+* Colombia national holidays
+* Venezuela national holidays
